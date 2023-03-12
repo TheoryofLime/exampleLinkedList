@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleLinkedList\exampleLinkedList\bin\Debug\net6.0\exampleLinkedList.exe
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleLinkedList\exampleLinkedList\bin\Debug\net6.0\exampleLinkedList.deps.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleLinkedList\exampleLinkedList\bin\Debug\net6.0\exampleLinkedList.runtimeconfig.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleLinkedList\exampleLinkedList\bin\Debug\net6.0\exampleLinkedList.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleLinkedList\exampleLinkedList\bin\Debug\net6.0\exampleLinkedList.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleLinkedList\exampleLinkedList\obj\Debug\net6.0\exampleLinkedList.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleLinkedList\exampleLinkedList\obj\Debug\net6.0\exampleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleLinkedList\exampleLinkedList\obj\Debug\net6.0\exampleLinkedList.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleLinkedList\exampleLinkedList\obj\Debug\net6.0\exampleLinkedList.AssemblyInfo.cs
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleLinkedList\exampleLinkedList\obj\Debug\net6.0\exampleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleLinkedList\exampleLinkedList\obj\Debug\net6.0\exampleLinkedList.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleLinkedList\exampleLinkedList\obj\Debug\net6.0\refint\exampleLinkedList.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleLinkedList\exampleLinkedList\obj\Debug\net6.0\exampleLinkedList.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleLinkedList\exampleLinkedList\obj\Debug\net6.0\exampleLinkedList.genruntimeconfig.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment7\exampleLinkedList\exampleLinkedList\obj\Debug\net6.0\ref\exampleLinkedList.dll
